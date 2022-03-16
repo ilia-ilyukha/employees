@@ -12,7 +12,9 @@ username (DB_USERNAME) and password (DB_PASSWORD) field correspond to your confi
 For seed data you can:
 - use seeders:
     php artisan db:seed --class=EmployerSeeder
+
     php artisan db:seed --class=EmployerHourSeeder
+    
     php artisan db:seed --class=DepartmentSeeder
 
 - or upload file employees.xml on "/import" page
