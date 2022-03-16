@@ -1,0 +1,9 @@
+php artisan db:seed --class=EmployerSeeder
+php artisan db:seed --class=EmployerHourSeeder
+php artisan db:seed --class=DepartmentSeeder
+
+
+composer require laravel/ui
+php artisan ui bootstrap
+php artisan ui bootstrap --auth
+npm install && npm run dev

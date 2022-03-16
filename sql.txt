@@ -1,0 +1,7 @@
+SELECT e.id, e.name, IFNULL(eh.hours * e.salary, e.salary) as salary 
+FROM employyers e 
+LEFT JOIN ( 
+    SELECT SUM(employer_hour.quantity) hours, employer_id 
+    FROM employer_hour 
+    WHERE date >= "2022-03-01" AND date <= "2022-03-31" 
+) eh ON e.id = eh.employer_id
