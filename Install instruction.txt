@@ -1,9 +1,16 @@
+1) composer install
+
+2) Создать файл .env
+Open your .env file and change the database name (DB_DATABASE) to whatever you have, 
+username (DB_USERNAME) and password (DB_PASSWORD) field correspond to your configuration
+
+3) php artisan key:generate
+
+4) php artisan migrate
+
 php artisan db:seed --class=EmployerSeeder
 php artisan db:seed --class=EmployerHourSeeder
 php artisan db:seed --class=DepartmentSeeder
 
 
-composer require laravel/ui
-php artisan ui bootstrap
-php artisan ui bootstrap --auth
 npm install && npm run dev
