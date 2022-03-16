@@ -53,7 +53,7 @@ class EmployeeController extends Controller
                 'employers_hours.hours',
                 'd.name as department_name'
             )
-            ->orderBy('employers.id', 'DESC');
+            ->orderBy('employers.id', 'ASC');
 
         if (isset($filter_data['department_code'])) {
             $query->where('d.codename', '=', $department_code);
