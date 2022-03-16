@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee>
+            <name>Employers №1</name>
+            <surname>1th</surname>
+            <salary_type>2</salary_type>
+            <salary>9.00</salary>
+            <department_id>3</department_id>
+            <birthday>1987-04-02</birthday>
+            <position>SMM</position>
+        </employee>        
+        <employee>
+            <name>Employers №2</name>
+            <surname>2th</surname>
+            <salary_type>1</salary_type>
+            <salary>1300.00</salary>
+            <department_id>1</department_id>
+            <birthday>1993-02-11</birthday>
+            <position>developer</position>
+        </employee>        <employee>
+            <name>Employers №3</name>
+            <surname>3th</surname>
+            <salary_type>1</salary_type>
+            <salary>1500.00</salary>
+            <department_id>3</department_id>
+            <birthday>1998-01-07</birthday>
+            <position>developer</position>
+        </employee>        <employee>
+            <name>Employers №4</name>
+            <surname>4th</surname>
+            <salary_type>1</salary_type>
+            <salary>1500.00</salary>
+            <department_id>1</department_id>
+            <birthday>1988-10-11</birthday>
+            <position>developer</position>
+        </employee>        <employee>
+            <name>Employers №5</name>
+            <surname>5th</surname>
+            <salary_type>1</salary_type>
+            <salary>1400.00</salary>
+            <department_id>1</department_id>
+            <birthday>1996-05-03</birthday>
+            <position>developer</position>
+        </employee>        <employee>
+            <name>Employers №6</name>
+            <surname>6th</surname>
+            <salary_type>2</salary_type>
+            <salary>40.00</salary>
+            <department_id>3</department_id>
+            <birthday>1992-07-03</birthday>
+            <position>SMM</position>
+        </employee>        <employee>
+            <name>Employers №7</name>
+            <surname>7th</surname>
+            <salary_type>1</salary_type>
+            <salary>500.00</salary>
+            <department_id>3</department_id>
+            <birthday>1985-03-01</birthday>
+            <position>qa</position>
+        </employee>        <employee>
+            <name>Employers №8</name>
+            <surname>8th</surname>
+            <salary_type>1</salary_type>
+            <salary>400.00</salary>
+            <department_id>3</department_id>
+            <birthday>1987-02-11</birthday>
+            <position>developer</position>
+        </employee>        <employee>
+            <name>Employers №9</name>
+            <surname>9th</surname>
+            <salary_type>1</salary_type>
+            <salary>800.00</salary>
+            <department_id>1</department_id>
+            <birthday>1993-05-12</birthday>
+            <position>SMM</position>
+        </employee>        <employee>
+            <name>Employers №10</name>
+            <surname>10th</surname>
+            <salary_type>2</salary_type>
+            <salary>26.00</salary>
+            <department_id>3</department_id>
+            <birthday>1998-06-11</birthday>
+            <position>qa</position>
+        </employee>        <employee>
+            <name>Employers №11</name>
+            <surname>11th</surname>
+            <salary_type>1</salary_type>
+            <salary>1000.00</salary>
+            <department_id>1</department_id>
+            <birthday>1989-11-11</birthday>
+            <position>developer</position>
+        </employee>        <employee>
+            <name>Employers №12</name>
+            <surname>12th</surname>
+            <salary_type>2</salary_type>
+            <salary>38.00</salary>
+            <department_id>2</department_id>
+            <birthday>1992-09-10</birthday>
+            <position>developer</position>
+        </employee>        <employee>
+            <name>Employers №13</name>
+            <surname>13th</surname>
+            <salary_type>1</salary_type>
+            <salary>400.00</salary>
+            <department_id>1</department_id>
+            <birthday>1988-02-07</birthday>
+            <position>qa</position>
+        </employee>        <employee>
+            <name>Employers №14</name>
+            <surname>14th</surname>
+            <salary_type>1</salary_type>
+            <salary>700.00</salary>
+            <department_id>1</department_id>
+            <birthday>1994-08-10</birthday>
+            <position>SMM</position>
+        </employee>        <employee>
+            <name>Employers №15</name>
+            <surname>15th</surname>
+            <salary_type>1</salary_type>
+            <salary>1300.00</salary>
+            <department_id>3</department_id>
+            <birthday>1990-08-05</birthday>
+            <position>developer</position>
+        </employee>        <employee>
+            <name>Employers №16</name>
+            <surname>16th</surname>
+            <salary_type>2</salary_type>
+            <salary>30.00</salary>
+            <department_id>1</department_id>
+            <birthday>1999-09-07</birthday>
+            <position>SMM</position>
+        </employee>        <employee>
+            <name>Employers №17</name>
+            <surname>17th</surname>
+            <salary_type>2</salary_type>
+            <salary>10.00</salary>
+            <department_id>1</department_id>
+            <birthday>1988-02-01</birthday>
+            <position>developer</position>
+        </employee>        <employee>
+            <name>Employers №18</name>
+            <surname>18th</surname>
+            <salary_type>2</salary_type>
+            <salary>31.00</salary>
+            <department_id>2</department_id>
+            <birthday>1996-08-09</birthday>
+            <position>SMM</position>
+        </employee>        <employee>
+            <name>Employers №19</name>
+            <surname>19th</surname>
+            <salary_type>2</salary_type>
+            <salary>29.00</salary>
+            <department_id>2</department_id>
+            <birthday>1990-12-06</birthday>
+            <position>developer</position>
+        </employee>        <employee>
+            <name>Employers №20</name>
+            <surname>20th</surname>
+            <salary_type>2</salary_type>
+            <salary>32.00</salary>
+            <department_id>2</department_id>
+            <birthday>1993-09-04</birthday>
+            <position>developer</position>
+        </employee>
+</employees>
